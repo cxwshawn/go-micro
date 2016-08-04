@@ -1,0 +1,90 @@
+{
+	"ImportPath": "github.com/micro/go-micro",
+	"GoVersion": "go1.6",
+	"GodepVersion": "v74",
+	"Deps": [
+		{
+			"ImportPath": "github.com/eclipse/paho.mqtt.golang",
+			"Comment": "v1.0.0-1-g44eec14",
+			"Rev": "44eec149d4433449add74781ffc86cc60d3f1598"
+		},
+		{
+			"ImportPath": "github.com/eclipse/paho.mqtt.golang/packets",
+			"Comment": "v1.0.0-1-g44eec14",
+			"Rev": "44eec149d4433449add74781ffc86cc60d3f1598"
+		},
+		{
+			"ImportPath": "github.com/golang/protobuf/proto",
+			"Rev": "c3cefd437628a0b7d31b34fe44b3a7a540e98527"
+		},
+		{
+			"ImportPath": "github.com/hashicorp/consul/api",
+			"Comment": "v0.7.0-test2-13-g6a30762",
+			"Rev": "6a3076296543515fbf8892161d80c25f2c828435"
+		},
+		{
+			"ImportPath": "github.com/hashicorp/consul/watch",
+			"Comment": "v0.7.0-test2-13-g6a30762",
+			"Rev": "6a3076296543515fbf8892161d80c25f2c828435"
+		},
+		{
+			"ImportPath": "github.com/hashicorp/go-cleanhttp",
+			"Rev": "ad28ea4487f05916463e2423a55166280e8254b5"
+		},
+		{
+			"ImportPath": "github.com/hashicorp/serf/coordinate",
+			"Comment": "v0.7.0-68-g41886c5",
+			"Rev": "41886c5cbb3ef7ab8c3c3a0b82c529f2173bca67"
+		},
+		{
+			"ImportPath": "github.com/micro/cli",
+			"Comment": "1.2.0-241-g3d2263b",
+			"Rev": "3d2263bb092286dde294a31049c92665f8373820"
+		},
+		{
+			"ImportPath": "github.com/micro/mdns",
+			"Rev": "ab413e42fed3fdd8198ac4df3db5a342eb67d6e4"
+		},
+		{
+			"ImportPath": "github.com/micro/misc/lib/tls",
+			"Rev": "677e2a0beb40a3dd7418548fe0cdc661e2922859"
+		},
+		{
+			"ImportPath": "github.com/miekg/dns",
+			"Rev": "db96a2b759cdef4f11a34506a42eb8d1290c598e"
+		},
+		{
+			"ImportPath": "github.com/mitchellh/hashstructure",
+			"Rev": "b098c52ef6beab8cd82bc4a32422cf54b890e8fa"
+		},
+		{
+			"ImportPath": "github.com/pborman/uuid",
+			"Comment": "v1.0-11-gc55201b",
+			"Rev": "c55201b036063326c5b1b89ccfe45a184973d073"
+		},
+		{
+			"ImportPath": "golang.org/x/net/bpf",
+			"Rev": "efb4978ac69a9387db6f16c7546dd8ba9e51b6d6"
+		},
+		{
+			"ImportPath": "golang.org/x/net/context",
+			"Rev": "efb4978ac69a9387db6f16c7546dd8ba9e51b6d6"
+		},
+		{
+			"ImportPath": "golang.org/x/net/internal/iana",
+			"Rev": "efb4978ac69a9387db6f16c7546dd8ba9e51b6d6"
+		},
+		{
+			"ImportPath": "golang.org/x/net/ipv4",
+			"Rev": "efb4978ac69a9387db6f16c7546dd8ba9e51b6d6"
+		},
+		{
+			"ImportPath": "golang.org/x/net/ipv6",
+			"Rev": "efb4978ac69a9387db6f16c7546dd8ba9e51b6d6"
+		},
+		{
+			"ImportPath": "golang.org/x/net/websocket",
+			"Rev": "efb4978ac69a9387db6f16c7546dd8ba9e51b6d6"
+		}
+	]
+}
